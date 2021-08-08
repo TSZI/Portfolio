@@ -1036,6 +1036,7 @@ hr {
     right: 4vw;
     top: 25px;
     z-index: 99;
+    border-radius: 50%;
 }
 
 .portfolio-area .lightbox-wrapper .lightbox-close .close-btn {
@@ -1102,6 +1103,7 @@ hr {
 .portfolio-area .lightbox-wrapper .lightbox-close .close-btn:before,
 .portfolio-area .lightbox-wrapper .lightbox-close .close-btn:after {
     background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 1);
     height: 2px;
     width: 80%;
 }
